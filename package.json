@@ -1,12 +1,28 @@
 {
   "name": "grunt-start",
-  "version": "1.0.0",
+  "description": "A quick way to build a modular Grunt workflow",
+  "author": "Tom Horton <thomasphorton@gmail.com>",
   "homepage": "http://thomasphorton.com",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thomasphorton/grunt-start.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thomasphorton/grunt-start/issues"
+  },
+  "keywords": [
+    "grunt",
+    "workflow",
+    "modular",
+    "tutorial"
+  ],
   "devDependencies": {
     "glob": "^4.0.6",
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "^0.10.0",
     "load-grunt-tasks": "^1.0.0"
-  }
+  },
+  "license": "MIT"
 }
