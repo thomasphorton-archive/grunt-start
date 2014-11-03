@@ -31,7 +31,7 @@ module.exports = function(grunt) {
 
   grunt.loadTasks('tasks');
 
-  grunt.registerTask('default', 'helloWorld');
+  grunt.registerTask('default', ['jshint', 'helloWorld']);
 
 };
  
