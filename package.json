@@ -1,0 +1,11 @@
+{
+  "name": "grunt-start",
+  "version": "1.0.0",
+  "homepage": "http://thomasphorton.com",
+  "devDependencies": {
+    "glob": "^4.0.6",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "load-grunt-tasks": "^1.0.0"
+  }
+}
